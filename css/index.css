@@ -1,0 +1,12 @@
+h1 {
+    color: #5D917D;
+}
+
+.banner-custom {
+    width: 400px;
+    margin: auto;
+}
+
+.banner-custom img {
+    width: 100%;
+}
